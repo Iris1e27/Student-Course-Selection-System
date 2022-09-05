@@ -1,2 +1,2 @@
-# Student-Course-Selction-System
+# Student-Course-Selection-System
 
