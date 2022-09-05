@@ -276,7 +276,7 @@ class Student extends React.Component {
         </table>
         <div>{hintLogOut}</div>
         <div id="other_container">
-          Nothing to do? Click <a href="/index.html">here</a> to Log Out <br />
+          Nothing to do? Click <a href="./index.html">here</a> to Log Out <br />
         </div>
       </div>
     );
