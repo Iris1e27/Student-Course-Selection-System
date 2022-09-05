@@ -1,10 +1,9 @@
-let root = "/Student-Course-Selction-System/pages";
 class Footer extends React.Component {
   render() {
     return (
       <footer>
-        <a href=root+"/index.html">Home</a> | <a href=root+"/log.html">Log</a> |{" "}
-        <a href=root+"/qa.html">FAQ</a> | <a href=root+"/ack.html">Ack</a> | <a href=root+"/other.html">Other</a>
+        <a href="/Student-Course-Selction-System/pages/index.html">Home</a> | <a href="/Student-Course-Selction-System/pages/log.html">Log</a> |{" "}
+        <a href="/Student-Course-Selction-System/pages/qa.html">FAQ</a> | <a href="/Student-Course-Selction-System/pages/ack.html">Ack</a> | <a href="/Student-Course-Selction-System/pages/other.html">Other</a>
         <br />
         Created by{" "}
         <a href="https://blog.csdn.net/zjt1027?type=blog">Jingtian Zhang</a>
